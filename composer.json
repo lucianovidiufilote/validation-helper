@@ -1,0 +1,20 @@
+{
+    "name": "lucianovidiufilote/validation-helper",
+    "description": "PHP validation helper",
+    "authors": [
+        {
+            "name": "Lucian Filote",
+            "email": "lucian.filote@gmail.com"
+        }
+    ],
+    "license": "Apache-2.0",
+    "require": {
+        "php": ">=7.2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "lucianovidiufilote\\ValidationHelper\\": "src/"
+        }
+    },
+    "version": "1.0.0"
+}
